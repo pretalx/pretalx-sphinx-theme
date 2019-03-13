@@ -1,0 +1,4 @@
+*.pyc
+dist
+pretalx_sphinx_theme.egg-info
+demo/_build
