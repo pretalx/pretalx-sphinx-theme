@@ -1,0 +1,1 @@
+This repository is archived and not in use anymore. The Sphinx theme used at [docs.pretalx.org](https://docs.pretalx.org) is now part of the pretalx project. You can find it [here](https://github.com/pretalx/pretalx/tree/master/doc/_themes/pretalx_theme).
